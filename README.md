@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Transmittance/Transmittance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nothing much here right now but this:
-
-<p align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=abpjg4b7d6xbddjxrwbehczga&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=abpjg4b7d6xbddjxrwbehczga&redirect=true)
-</p>
